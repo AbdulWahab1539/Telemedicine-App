@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "347946496466",
+    "project_id": "telemedicine-app-3fcd8",
+    "storage_bucket": "telemedicine-app-3fcd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347946496466:android:e8a8c00dbc34c4f9be980b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347946496466-2io22ld5722r47qr72f7h1k1ec5fg0it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpzqUr5ydnHncbM70qe4MHH-MhblviYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347946496466-2io22ld5722r47qr72f7h1k1ec5fg0it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347946496466:android:80ffee106a331999be980b",
+        "android_client_info": {
+          "package_name": "com.org.telemedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347946496466-7jt9jkt800bnj894g3jqapr6kvoahsfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.org.telemedicine",
+            "certificate_hash": "5ff41a79fc06e89c18250fd09e0af91b1f5657cf"
+          }
+        },
+        {
+          "client_id": "347946496466-2io22ld5722r47qr72f7h1k1ec5fg0it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpzqUr5ydnHncbM70qe4MHH-MhblviYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347946496466-2io22ld5722r47qr72f7h1k1ec5fg0it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
